@@ -15,26 +15,26 @@ body{
     margin-top: 0; 
  }
 
- .page1{
+  .page1{
     background-image: url("./images/bluegate.jpg");
-    background-position: center;
+    background-position: center center;
     background-size: cover;
-    height: 45vh;
- }
+    /* height: 45vh; */
+ } 
 
- .white{
+  .page3{
     background-image: url("./images/stars.jpg");
     background-position: center;
     background-size: cover;
-    height: 45vh;
- }
+  
+ } 
 
- .blue{
+  .page4{
     background-image: url("./images/bluepaint.jpg");
     background-position: center;
     background-size: cover;
-    height: 45vh;
- }
+ 
+ } 
  
  a {
    color: inherit;
